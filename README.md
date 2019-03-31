@@ -1,5 +1,7 @@
-# Awesome CS Clubs @ Canyon Crest Academy
+# Awesome CS Clubs @ Canyon Crest Academy 😎
 An "awesome" collection of clubs on-campus all in one smart directory. If you manage one of the clubs below, please feel free to fork this list and create a pull request.
+
+![](https://img.shields.io/badge/cca-ravens-red.svg)
 
 # Note:
 
