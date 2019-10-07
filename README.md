@@ -70,7 +70,7 @@ http://www.codingthefuture.org/
 
 **Meetings:** Mondays and Wednesdays During Lunch (F106)
 
-**Description:** Our purpose is to inspire, educate, and equip girls with the computing skills to pursue 21st century learning opportunities.
+**Description:** Our purpose is to promote the field of Game Design - with product design and strategy at its core, game design is an art that is not commonly pursued by high schoolers.
 
 # Girls Who Code
 
